@@ -6,7 +6,8 @@ Project Objective:
 Customer Performance Report: https://github.com/Roohitabassum/Excel-Sales-Analytics-Project/blob/main/Customer%20Performance%20Report.pdf
 
 Created a customer performance report to analyze customer behavior, purchasing trends, and profitability metrics.
-Market Performance vs. Sales Targets Comparison:
+
+Market Performance vs. Sales Targets Comparison:https://github.com/Roohitabassum/Excel-Sales-Analytics-Project/blob/main/Market%20Performance%20vs%20Target.pdf
 
 Conducted a comprehensive comparison between market performance and sales targets to assess the effectiveness of sales strategies and identify areas for improvement.
 
