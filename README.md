@@ -3,12 +3,13 @@
 
 Project Objective:
 
-Customer Performance Report:
+Customer Performance Report: https://github.com/Roohitabassum/Excel-Sales-Analytics-Project/blob/main/Customer%20Performance%20Report.pdf
 
 Created a customer performance report to analyze customer behavior, purchasing trends, and profitability metrics.
 Market Performance vs. Sales Targets Comparison:
 
 Conducted a comprehensive comparison between market performance and sales targets to assess the effectiveness of sales strategies and identify areas for improvement.
+
 Purpose of Sales Analytics:
 
 The primary aim is to empower businesses to monitor and evaluate their sales activities and performance effectively.
